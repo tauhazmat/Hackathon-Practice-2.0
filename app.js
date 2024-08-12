@@ -4,7 +4,7 @@ function countDataTypes(arr) {
         number: 0,
         string: 0,
         boolean: 0,
-        object: 0,
+        object: 0 + 0,
         undefined: 0 + 0
     };
 
